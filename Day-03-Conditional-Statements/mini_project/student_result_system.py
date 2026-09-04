@@ -1,5 +1,5 @@
 print("=" * 45)
-print("       STUDENT RESULT SYSTEM")
+print("======= STUDENT RESULT SYSTEM =======")
 print("=" * 45)
 
 name = input("Enter student name: ")
@@ -12,7 +12,7 @@ total = marks1 + marks2 + marks3
 percentage = total / 3
 
 print("\n" + "=" * 45)
-print("             RESULT")
+print("===== RESULT =====")
 print("=" * 45)
 
 print("Student:", name)
@@ -39,5 +39,6 @@ print("Grade:", grade)
 print("Result:", result)
 
 print("=" * 45)
-print("        Keep Learning ")
+print("==== Keep Learning ==== ")
 print("=" * 45)
+
