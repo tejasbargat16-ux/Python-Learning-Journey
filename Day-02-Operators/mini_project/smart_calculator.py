@@ -1,5 +1,5 @@
 print("=" * 40)
-print("       🧮 SMART CALCULATOR")
+print(" ======= SMART CALCULATOR ====== ")
 print("=" * 40)
 
 num1 = float(input("Enter first number: "))
@@ -33,5 +33,5 @@ else:
 print("\nResult:", result)
 
 print("=" * 40)
-print("        Calculation Complete 🚀")
+print(" ===== Calculation Complete ===== ")
 print("=" * 40)
