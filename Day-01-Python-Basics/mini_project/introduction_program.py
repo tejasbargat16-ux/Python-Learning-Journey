@@ -22,5 +22,5 @@ print("Goal:", goal)
 print("Favorite Language:", language)
 
 print("=" * 40)
-print("   Keep Learning. Keep Building. 🚀")
+print("   Keep Learning. Keep Building. ")
 print("=" * 40)
