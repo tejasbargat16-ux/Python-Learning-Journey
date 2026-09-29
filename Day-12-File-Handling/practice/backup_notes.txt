@@ -1,0 +1,2 @@
+& C:/Users/tejas/AppData/Local/Python/bin/python.exe c:/Users/tejas/Python-Learning-Journey/Day-12-File-Handling/practice/02_read_notes.py
+& C:/Users/tejas/AppData/Local/Python/bin/python.exe c:/Users/tejas/Python-Learning-Journey/Day-12-File-Handling/practice/03_append_notes.py
