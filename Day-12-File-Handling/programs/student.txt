@@ -1,0 +1,4 @@
+Name: Tejas
+Course: Engineering
+Skill: Python
+Goal: Become a Developer
