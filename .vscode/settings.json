@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Day-11-Exception-Handling"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
