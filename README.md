@@ -138,8 +138,9 @@ Python-Learning-Journey/
 | 11 | [Exception Handling](Day-11-Exception-Handling/) | 15 | ✅ |
 | 12 | [File Handling](Day-12-File-Handling/) | 16 | ✅ |
 | 13 | [Modules Packages](Day-13-Modules-Packages/) | 18 | ✅ |
+| 14 | [Oop](Day-14-OOP/) | 10 | ✅ |
 
-**Total days completed: 13**
+**Total days completed: 14**
 <!-- PROGRESS:END -->
 
 ---
