@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x"></a>
   <a href="https://termux.dev/"><img src="https://img.shields.io/badge/Environment-Termux%20%7C%20VS%20Code-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Environment"></a>
-  <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey"><img src="https://img.shields.io/badge/Progress-Day%2013%20Active-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Progress"></a>
+  <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey"><img src="https://img.shields.io/badge/Progress-Day%2014%20Active-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Progress"></a>
   <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey/stargazers"><img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge" alt="Status"></a>
 </p>
 
@@ -91,16 +91,17 @@ flowchart LR
 
 ### 4. Repository Structure
 
+<!-- STRUCTURE:START -->
 ```text
 Python-Learning-Journey/
-├── .github/
+├── .github/                                     # Automated workflows & CI/CD
 │   └── workflows/
 │       └── update-readme.yml                    # Automated GitHub Actions tracker workflow
 ├── assets/                                      # Banners, roadmaps, and visual documentation
 │   ├── banner-code-to-creation.png
 │   ├── banner-roadmap.jpg
 │   └── banner-collection.png
-├── scripts/
+├── scripts/                                     # Automation scripts
 │   └── update_readme.py                         # Automation script to rebuild progress table
 ├── Day-01-Python-Basics/                        # Variables, data types & type casting
 ├── Day-02-Operators/                            # Arithmetic, logical & comparison operators
@@ -115,8 +116,10 @@ Python-Learning-Journey/
 ├── Day-11-Exception-Handling/                   # Robust error management & input validation
 ├── Day-12-File-Handling/                        # Persistent file I/O & record storage
 ├── Day-13-Modules-Packages/                     # Custom & built-in modules, namespaces & CLI
+├── Day-14-OOP/                                  # Classes, objects, constructors & methods
 └── README.md                                    # Master repository documentation
 ```
+<!-- STRUCTURE:END -->
 
 ---
 
@@ -137,8 +140,8 @@ Python-Learning-Journey/
 | 10 | [Strings](Day-10-Strings/) | 17 | ✅ |
 | 11 | [Exception Handling](Day-11-Exception-Handling/) | 15 | ✅ |
 | 12 | [File Handling](Day-12-File-Handling/) | 16 | ✅ |
-| 13 | [Modules Packages](Day-13-Modules-Packages/) | 18 | ✅ |
-| 14 | [Oop](Day-14-OOP/) | 10 | ✅ |
+| 13 | [Modules & Packages](Day-13-Modules-Packages/) | 18 | ✅ |
+| 14 | [Object-Oriented Programming (OOP)](Day-14-OOP/) | 10 | ✅ |
 
 **Total days completed: 14**
 <!-- PROGRESS:END -->
@@ -169,14 +172,14 @@ cd Python-Learning-Journey
 
 ### 2. Run Any Program or Mini Project
 ```bash
-# Example 1: Run Day 13 Mini Project
+# Example 1: Run Day 14 Student Profile Manager
+python Day-14-OOP/mini_project/main.py
+
+# Example 2: Run Day 13 Smart Utility Toolkit
 python Day-13-Modules-Packages/mini_project/main.py
 
-# Example 2: Run Day 12 Student Record Manager
+# Example 3: Run Day 12 Student Record Manager
 python Day-12-File-Handling/mini_project/student_record_manager.py
-
-# Example 3: Run Day 11 Safe Calculator
-python Day-11-Exception-Handling/mini_project/safe_calculator.py
 ```
 
 ### 3. Termux Setup (Android Users)
