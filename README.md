@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x"></a>
   <a href="https://termux.dev/"><img src="https://img.shields.io/badge/Environment-Termux%20%7C%20VS%20Code-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Environment"></a>
-  <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey"><img src="https://img.shields.io/badge/Progress-Day%2015%20Active-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Progress"></a>
+  <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey"><img src="https://img.shields.io/badge/Progress-Day%2016%20Active-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Progress"></a>
   <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey/stargazers"><img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge" alt="Status"></a>
 </p>
 
@@ -118,6 +118,7 @@ Python-Learning-Journey/
 ├── Day-13-Modules-Packages/                     # Custom & built-in modules, namespaces & CLI
 ├── Day-14-OOP/                                  # Classes, objects, constructors & methods
 ├── Day-15-OOP/                                  # Day-15-OOP
+├── Day-16-OOP/                                  # Day-16-OOP
 └── README.md                                    # Master repository documentation
 ```
 <!-- STRUCTURE:END -->
@@ -144,8 +145,9 @@ Python-Learning-Journey/
 | 13 | [Modules & Packages](Day-13-Modules-Packages/) | 18 | ✅ |
 | 14 | [Object-Oriented Programming (OOP)](Day-14-OOP/) | 10 | ✅ |
 | 15 | [Object-Oriented Programming (OOP)](Day-15-OOP/) | 10 | ✅ |
+| 16 | [Object-Oriented Programming (OOP)](Day-16-OOP/) | 6 | ✅ |
 
-**Total days completed: 15**
+**Total days completed: 16**
 <!-- PROGRESS:END -->
 
 ---
