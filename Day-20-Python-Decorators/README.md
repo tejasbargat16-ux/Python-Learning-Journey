@@ -14,6 +14,7 @@
 - Logging Decorator
 - Validation Decorator
 - Repeat Decorator
+- Execution Limit Decorator
 
 ## Mini Project
 Function Monitoring System
