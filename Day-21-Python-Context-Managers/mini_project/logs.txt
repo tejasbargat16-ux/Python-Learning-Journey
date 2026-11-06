@@ -1,0 +1,6 @@
+[2026-11-06 20:31:22] Copy data: STARTED
+[2026-11-06 20:31:22] Copy data: SUCCESS (0.00s)
+[2026-11-06 20:31:22] Divide numbers: STARTED
+[2026-11-06 20:31:22] Divide numbers: FAILED: division by zero
+[2026-11-06 20:31:22] Read missing file: STARTED
+[2026-11-06 20:31:22] Read missing file: FAILED: [Errno 2] No such file or directory: 'missing.txt'
