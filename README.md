@@ -47,9 +47,9 @@ The journey is structured across four comprehensive milestones:
 
 ## 🏗️ Architecture & Design System
 
-The repository follows a uniform **3-Tier Module Pattern** for every single day to ensure consistent learning, code readability, and testability.
+The repository follows a uniform **4-Tier Module Pattern** for every single day to ensure consistent learning, code readability, testability, and fast revision.
 
-### 1. Day Module Structure (3-Tier Pattern)
+### 1. Day Module Structure (4-Tier Pattern)
 
 ```mermaid
 graph TD
@@ -57,12 +57,14 @@ graph TD
     DayRoot --> Prog["📁 programs/ (Concept Foundations)"]
     DayRoot --> Pract["📁 practice/ (Hands-On Drills)"]
     DayRoot --> Mini["📁 mini_project/ (Applied Capstone)"]
+    DayRoot --> Notes["📁 notes/ (Comprehensive Study Notes)"]
     DayRoot --> Readme["📄 README.md (Day Documentation)"]
 
     Prog --> ProgDesc["Atomic scripts demonstrating language features and syntax"]
     Pract --> PractDesc["Algorithmic challenges and edge-case testing"]
     Mini --> MiniDesc["Complete standalone executable CLI tool or utility"]
-    Readme --> ReadmeDesc["Concept summaries, key takeaways, and run instructions"]
+    Notes --> NotesDesc["In-depth concept summaries, syntax cheat sheets, and edge cases"]
+    Readme --> ReadmeDesc["Concept overviews, key takeaways, and run instructions"]
 ```
 
 ### 2. Learning Progression Flow
