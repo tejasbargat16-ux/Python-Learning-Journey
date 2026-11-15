@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x"></a>
   <a href="https://termux.dev/"><img src="https://img.shields.io/badge/Environment-Termux%20%7C%20VS%20Code-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Environment"></a>
-  <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey"><img src="https://img.shields.io/badge/Progress-Day%2021%20Active-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Progress"></a>
+  <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey"><img src="https://img.shields.io/badge/Progress-Day%2022%20Active-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Progress"></a>
   <a href="https://github.com/tejasbargat16-ux/Python-Learning-Journey/stargazers"><img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge" alt="Status"></a>
 </p>
 
@@ -126,6 +126,7 @@ Python-Learning-Journey/
 ├── Day-19-Regular-Expressions/                  # Day-19-Regular-Expressions
 ├── Day-20-Python-Decorators/                    # Day-20-Python-Decorators
 ├── Day-21-Python-Context-Managers/              # Day-21-Python-Context-Managers
+├── Day-22-Python-Type-Hints-and-Dataclasses/    # Day-22-Python-Type-Hints-and-Dataclasses
 └── README.md                                    # Master repository documentation
 ```
 <!-- STRUCTURE:END -->
@@ -158,8 +159,9 @@ Python-Learning-Journey/
 | 19 | [Regular Expressions](Day-19-Regular-Expressions/) | 11 | ✅ |
 | 20 | [Python Decorators](Day-20-Python-Decorators/) | 13 | ✅ |
 | 21 | [Python Context Managers](Day-21-Python-Context-Managers/) | 12 | ✅ |
+| 22 | [Python Type Hints And Dataclasses](Day-22-Python-Type-Hints-and-Dataclasses/) | 12 | ✅ |
 
-**Total days completed: 21**
+**Total days completed: 22**
 <!-- PROGRESS:END -->
 
 ---
